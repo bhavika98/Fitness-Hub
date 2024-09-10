@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#9e000000">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="true"
+            android:scaleType="centerCrop"
+            android:src="@drawable/share_bg" />
+
+        <ImageView
+            android:id="@+id/close_share"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentRight="true"
+            android:layout_margin="15dp"
+            android:padding="10dp"
+            android:src="@drawable/share_close" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="60dp"
+                android:text="@string/congrats"
+                android:textColor="@color/white"
+                android:textSize="24.0sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textview2"
+                android:layout_width="200.0dip"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textview"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginTop="25dp"
+                android:gravity="center_horizontal"
+                android:text="You have completed today's workout"
+                android:textColor="@color/white"
+                android:textSize="20.0sp" />
+
+            <TextView
+                android:id="@+id/textview3"
+                android:layout_width="250.0dip"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textview2"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="10.0dip"
+                android:layout_marginTop="25dp"
+                android:gravity="center_horizontal"
+                android:text="Now it's time to make"
+                android:textColor="@color/white"
+                android:textSize="20.0sp" />
+
+            <TextView
+                android:id="@+id/textview4"
+                android:layout_width="250.0dip"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/textview3"
+                android:layout_centerHorizontal="true"
+                android:layout_marginLeft="10.0dip"
+                android:gravity="center_horizontal"
+                android:text="your friends healthy too."
+                android:textColor="@color/white"
+                android:textSize="20.0sp" />
+
+            <Button
+                android:id="@+id/shareit"
+                android:layout_width="160dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:background="@drawable/xml_button"
+                android:gravity="center"
+                android:text="Share App"
+                android:textAllCaps="true"
+                android:textColor="#ffffffff"
+                android:textSize="20.0sp" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</RelativeLayout>

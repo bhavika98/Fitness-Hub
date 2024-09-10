@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/cardviewone"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="2dp"
+    android:orientation="horizontal"
+    app:cardBackgroundColor="@android:color/white"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="0dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="12dp">
+
+        <TextView
+            android:id="@+id/row_day"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerInParent="true"
+            android:layout_marginLeft="12.0dip"
+            android:text="Day 1"
+            android:textColor="@android:color/black"
+            android:textSize="18dp" />
+
+        <com.app.incroyable.fitnes_hub.library.NumberProgressBar
+            android:id="@+id/progressbar"
+            style="@style/NumberProgressBar.Circle.Blue"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="12.0dip"
+            app:currentValue="0"
+            app:numberTextColor="@color/colorLight"
+            app:numberTextSize="10.0sp"
+            app:progressBarShape="circle"
+            app:reachedBarColor="@color/colorPrimary"
+            app:unreachedBarColor="@color/colorLight"
+            app:unreachedBarHeight="3.0dip" />
+
+        <ImageView
+            android:id="@+id/restImageView"
+            android:layout_width="45dp"
+            android:layout_height="45dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:layout_marginRight="12.0dip"
+            android:src="@drawable/restday"
+            app:tint="@color/colorLight"
+            android:visibility="visible" />
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>

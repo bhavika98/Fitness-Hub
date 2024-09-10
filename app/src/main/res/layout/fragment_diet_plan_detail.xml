@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/colorgrey"
+    android:clickable="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <com.google.android.material.appbar.AppBarLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/exc_details_layout_mtoolbar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:minHeight="?actionBarSize"
+                android:theme="@style/myToolbarTheme"
+                app:navigationIcon="?homeAsUpIndicator">
+
+                <TextView
+                    android:id="@+id/day_txt"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:text="Meal"
+                    android:textColor="@android:color/white"
+                    android:textSize="20.0sp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="right">
+
+                    <TextView
+                        android:id="@+id/finished_txt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginRight="20dp"
+                        android:gravity="center"
+                        android:text="Finish"
+                        android:textColor="@android:color/white"
+                        android:textSize="15dp"
+                        android:visibility="visible" />
+
+                </LinearLayout>
+
+            </androidx.appcompat.widget.Toolbar>
+
+        </com.google.android.material.appbar.AppBarLayout>
+
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="none">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_margin="3dp"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:id="@+id/ll1"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:cardBackgroundColor="@android:color/white"
+                            app:cardCornerRadius="5dp"
+                            app:cardElevation="0dp"
+                            app:cardUseCompatPadding="true">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:src="@drawable/breakfast" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="fill_parent"
+                                        android:layout_marginLeft="20dp"
+                                        android:gravity="center"
+                                        android:text="Breakfast"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="15dp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="vertical">
+
+                                    <RelativeLayout
+                                        android:id="@+id/m_rel_0"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content">
+
+                                        <ImageView
+                                            android:id="@+id/m_0_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/m_0"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/m_0_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:id="@+id/m_rel_1"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_below="@+id/m_rel_0"
+                                        android:layout_marginTop="10dp">
+
+                                        <ImageView
+                                            android:id="@+id/m_1_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/m_1"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/m_1_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:cardBackgroundColor="@android:color/white"
+                            app:cardCornerRadius="5dp"
+                            app:cardElevation="0dp"
+                            app:cardUseCompatPadding="true">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:src="@drawable/snack" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="fill_parent"
+                                        android:layout_marginLeft="20dp"
+                                        android:gravity="center"
+                                        android:text="Snack"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="15dp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="vertical">
+
+                                    <RelativeLayout
+                                        android:id="@+id/li_0_rel"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content">
+
+                                        <ImageView
+                                            android:id="@+id/li_0_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/li_0"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/li_0_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:id="@+id/li_1_rel"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_below="@+id/m_rel_0"
+                                        android:layout_marginTop="10dp">
+
+                                        <ImageView
+                                            android:id="@+id/li_1_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/li_1"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/li_1_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:cardBackgroundColor="@android:color/white"
+                            app:cardCornerRadius="5dp"
+                            app:cardElevation="0dp"
+                            app:cardUseCompatPadding="true">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:src="@drawable/lunch" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="fill_parent"
+                                        android:layout_marginLeft="20dp"
+                                        android:gravity="center"
+                                        android:text="Lunch"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="15dp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="vertical">
+
+                                    <RelativeLayout
+                                        android:id="@+id/l_0_rel"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content">
+
+                                        <ImageView
+                                            android:id="@+id/l_0_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/l_0"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/l_0_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:id="@+id/l_1_rel"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_below="@+id/m_rel_0"
+                                        android:layout_marginTop="10dp">
+
+                                        <ImageView
+                                            android:id="@+id/l_1_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/l_1"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/l_1_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center"
+                        android:orientation="vertical">
+
+                        <androidx.cardview.widget.CardView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            app:cardBackgroundColor="@android:color/white"
+                            app:cardCornerRadius="5dp"
+                            app:cardElevation="0dp"
+                            app:cardUseCompatPadding="true">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_margin="10dp"
+                                android:orientation="vertical">
+
+                                <LinearLayout
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:orientation="horizontal">
+
+                                    <ImageView
+                                        android:layout_width="30dp"
+                                        android:layout_height="30dp"
+                                        android:src="@drawable/dinner" />
+
+                                    <TextView
+                                        android:layout_width="wrap_content"
+                                        android:layout_height="fill_parent"
+                                        android:layout_marginLeft="20dp"
+                                        android:gravity="center"
+                                        android:text="Dinner"
+                                        android:textColor="@android:color/black"
+                                        android:textSize="15dp" />
+
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:layout_width="fill_parent"
+                                    android:layout_height="fill_parent"
+                                    android:layout_marginTop="10dp"
+                                    android:layout_marginBottom="10dp"
+                                    android:orientation="vertical">
+
+                                    <RelativeLayout
+                                        android:id="@+id/d_0_rel"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content">
+
+                                        <ImageView
+                                            android:id="@+id/d_0_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/d_0"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/d_0_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                    <RelativeLayout
+                                        android:id="@+id/d_1_rel"
+                                        android:layout_width="fill_parent"
+                                        android:layout_height="wrap_content"
+                                        android:layout_below="@+id/m_rel_0"
+                                        android:layout_marginTop="10dp">
+
+                                        <ImageView
+                                            android:id="@+id/d_1_dot"
+                                            android:layout_width="6dp"
+                                            android:layout_height="6dp"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="5dp"
+                                            android:clickable="false"
+                                            android:src="@drawable/xml_circle" />
+
+                                        <TextView
+                                            android:id="@+id/d_1"
+                                            android:layout_width="fill_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_centerVertical="true"
+                                            android:layout_marginLeft="10dp"
+                                            android:layout_toRightOf="@+id/d_1_dot"
+                                            android:clickable="false"
+                                            android:gravity="center_vertical"
+                                            android:text="workout"
+                                            android:textColor="@android:color/black"
+                                            android:textSize="14dp" />
+
+                                    </RelativeLayout>
+
+                                </LinearLayout>
+
+                            </LinearLayout>
+
+                        </androidx.cardview.widget.CardView>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FitnessHub" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.FullScreen" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="drawerArrowColor" parent="@style/Widget.AppCompat.DrawerArrowToggle">
+        <item name="color">@color/colorPrimary</item>
+        <item name="spinBars">true</item>
+    </style>
+
+    <style name="AppTheme.PopupOverlay" parent="@style/ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.AppBarOverlay" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="myToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="white_myToolbarTheme" parent="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+
+    <style name="Theme_Dialog" parent="@style/Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="NumberProgressBar">
+        <item name="maxValue">100</item>
+        <item name="currentValue">0</item>
+        <item name="unreachedBarHeight">0.75dp</item>
+        <item name="reachedBarHeight">1.75dp</item>
+        <item name="numberTextSize">10sp</item>
+        <item name="textOffset">3dp</item>
+    </style>
+
+    <style name="NumberProgressBar.Circle">
+        <item name="minWidth">30dp</item>
+        <item name="minHeight">30dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="progressBarShape">circle</item>
+    </style>
+
+    <style name="NumberProgressBar.Circle.Blue">
+        <item name="numberTextColor">@color/progress_bar_color_blue</item>
+        <item name="reachedBarColor">@color/progress_bar_color_blue</item>
+        <item name="unreachedBarColor">@color/progress_bar_unreached_bar_color_default_grey</item>
+    </style>
+
+</resources>

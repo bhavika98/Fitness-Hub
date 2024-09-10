@@ -1,0 +1,27 @@
+[versions]
+agp = "8.3.2"
+appcompat = "1.7.0"
+cardview = "1.0.0"
+datetimepicker = "0.2.0"
+gson = "2.10.1"
+kotlin = "1.9.0"
+material = "1.12.0"
+picasso = "2.5.2"
+recyclerview = "1.3.2"
+roundcornerprogressbar = "2.0.3"
+
+[libraries]
+androidx-appcompat = { module = "androidx.appcompat:appcompat", version.ref = "appcompat" }
+androidx-cardview = { module = "androidx.cardview:cardview", version.ref = "cardview" }
+androidx-recyclerview = { module = "androidx.recyclerview:recyclerview", version.ref = "recyclerview" }
+datetimepicker = { module = "com.github.citux:datetimepicker", version.ref = "datetimepicker" }
+gson = { module = "com.google.code.gson:gson", version.ref = "gson" }
+material = { module = "com.google.android.material:material", version.ref = "material" }
+picasso = { module = "com.squareup.picasso:picasso", version.ref = "picasso" }
+roundcornerprogressbar = { module = "com.akexorcist:RoundCornerProgressBar", version.ref = "roundcornerprogressbar" }
+
+
+[plugins]
+androidApplication = { id = "com.android.application", version.ref = "agp" }
+jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+

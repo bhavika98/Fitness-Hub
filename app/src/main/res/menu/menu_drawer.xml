@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="none">
+
+        <item
+            android:id="@+id/dietplan"
+            android:icon="@drawable/menu_diet"
+            android:title="Diet Plans" />
+
+        <item
+            android:id="@+id/reminder"
+            android:icon="@drawable/menu_remaider"
+            android:title="Reminder" />
+
+        <item
+            android:id="@+id/restartprogress"
+            android:icon="@drawable/menu_restart"
+            android:title="Restart Progress" />
+
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/menu_share"
+            android:title="Share App" />
+
+        <item
+            android:id="@+id/rateus"
+            android:icon="@drawable/menu_rate"
+            android:title="Rate Us" />
+
+    </group>
+</menu>

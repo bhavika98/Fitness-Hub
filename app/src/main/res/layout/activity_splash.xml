@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/splash" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/imageView"
+            android:layout_marginBottom="20dp"
+            android:orientation="vertical">
+
+            <com.app.incroyable.fitnes_hub.utils.CustomTextView
+                android:id="@+id/text1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Female"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:visibility="invisible" />
+
+            <com.app.incroyable.fitnes_hub.utils.CustomTextView
+                android:id="@+id/text2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="Fitness Hub"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:visibility="invisible" />
+
+            <com.app.incroyable.fitnes_hub.utils.CustomTextView
+                android:id="@+id/text3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="And"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:visibility="invisible" />
+
+            <com.app.incroyable.fitnes_hub.utils.CustomTextView
+                android:id="@+id/text4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="3dp"
+                android:text="Diet Plan"
+                android:textColor="@color/white"
+                android:textSize="30dp"
+                android:visibility="invisible" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:src="@drawable/splash_icon" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

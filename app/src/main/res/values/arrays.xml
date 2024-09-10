@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="aerobics_backward_lunges">
+        <item>@drawable/aerobics_backward_lunges_a</item>
+        <item>@drawable/aerobics_backward_lunges_b</item>
+        <item>@drawable/aerobics_backward_lunges_a</item>
+        <item>@drawable/aerobics_backward_lunges_c</item>
+    </array>
+    <array name="aerobics_basic_squats">
+        <item>@drawable/aerobics_basic_squats_a</item>
+        <item>@drawable/aerobics_basic_squats_b</item>
+    </array>
+    <array name="aerobics_bicycle_crunches">
+        <item>@drawable/aerobics_bicycle_crunces_a</item>
+        <item>@drawable/aerobics_bicycle_crunces_b</item>
+    </array>
+    <array name="aerobics_bicycle_squat">
+        <item>@drawable/aerobics_bicycle_squat_a</item>
+        <item>@drawable/aerobics_bicycle_squat_b</item>
+    </array>
+    <array name="aerobics_butt_kicks">
+        <item>@drawable/aerobics_butt_kicks_a</item>
+        <item>@drawable/aerobics_butt_kicks_b</item>
+    </array>
+    <array name="aerobics_forward_lunges">
+        <item>@drawable/aerobics_forward_lunges_a</item>
+        <item>@drawable/aerobics_forward_lunges_b</item>
+        <item>@drawable/aerobics_forward_lunges_a</item>
+        <item>@drawable/aerobics_forward_lunges_c</item>
+    </array>
+    <array name="aerobics_forward_punch">
+        <item>@drawable/aerobics_forward_punch_a</item>
+        <item>@drawable/aerobics_forward_punch_b</item>
+        <item>@drawable/aerobics_forward_punch_a</item>
+        <item>@drawable/aerobics_forward_punch_c</item>
+        <item>@drawable/aerobics_forward_punch_d</item>
+        <item>@drawable/aerobics_forward_punch_c</item>
+    </array>
+    <array name="aerobics_forward_slant">
+        <item>@drawable/aerobics_forward_slant_a</item>
+        <item>@drawable/aerobics_forward_slant_b</item>
+        <item>@drawable/aerobics_forward_slant_a</item>
+        <item>@drawable/aerobics_forward_slant_c</item>
+        <item>@drawable/aerobics_forward_slant_a</item>
+        <item>@drawable/aerobics_forward_slant_d</item>
+    </array>
+    <array name="aerobics_glute_bend">
+        <item>@drawable/aerobics_glute_bend_a</item>
+        <item>@drawable/aerobics_glute_bend_b</item>
+    </array>
+    <array name="aerobics_high_knees">
+        <item>@drawable/aerobics_knee_raising_a</item>
+        <item>@drawable/aerobics_knee_raising_b</item>
+    </array>
+    <array name="aerobics_hip_stretch">
+        <item>@drawable/aerobics_hip_straightening_a</item>
+        <item>@drawable/aerobics_hip_straightening_b</item>
+    </array>
+    <array name="aerobics_jump_squat">
+        <item>@drawable/aerobics_jump_squat_a</item>
+        <item>@drawable/aerobics_jump_squat_b</item>
+    </array>
+    <array name="aerobics_jumping_jacks">
+        <item>@drawable/aerobics_jumping_jacks_a</item>
+        <item>@drawable/aerobics_jumping_jacks_b</item>
+        <item>@drawable/aerobics_jumping_jacks_c</item>
+        <item>@drawable/aerobics_jumping_jacks_d</item>
+    </array>
+    <array name="aerobics_jumping_lunge">
+        <item>@drawable/aerobics_jumping_lunge_a</item>
+        <item>@drawable/aerobics_jumping_lunge_b</item>
+        <item>@drawable/aerobics_jumping_lunge_c</item>
+    </array>
+    <array name="aerobics_knee_raising">
+        <item>@drawable/aerobics_high_knees_a</item>
+        <item>@drawable/aerobics_high_knees_b</item>
+    </array>
+    <array name="aerobics_knee_shaft">
+        <item>@drawable/aerobics_knee_shaft_a</item>
+        <item>@drawable/aerobics_knee_shaft_b</item>
+        <item>@drawable/aerobics_knee_shaft_c</item>
+    </array>
+    <array name="aerobics_leg_twisting">
+        <item>@drawable/aerobics_leg_twisting_a</item>
+        <item>@drawable/aerobics_leg_twisting_b</item>
+    </array>
+    <array name="aerobics_legs_up">
+        <item>@drawable/aerobics_legs_up_a</item>
+        <item>@drawable/aerobics_legs_up_b</item>
+    </array>
+    <array name="aerobics_shadow_boxing">
+        <item>@drawable/aerobics_shadow_boxing_a</item>
+        <item>@drawable/aerobics_shadow_boxing_b</item>
+        <item>@drawable/aerobics_shadow_boxing_a</item>
+        <item>@drawable/aerobics_shadow_boxing_c</item>
+    </array>
+    <array name="aerobics_side_punches">
+        <item>@drawable/aerobics_side_punches_a</item>
+        <item>@drawable/aerobics_side_punches_b</item>
+        <item>@drawable/aerobics_side_punches_a</item>
+        <item>@drawable/aerobics_side_punches_c</item>
+        <item>@drawable/aerobics_side_punches_a</item>
+        <item>@drawable/aerobics_side_punches_d</item>
+        <item>@drawable/aerobics_side_punches_e</item>
+        <item>@drawable/aerobics_side_punches_f</item>
+        <item>@drawable/aerobics_side_punches_e</item>
+        <item>@drawable/aerobics_side_punches_g</item>
+        <item>@drawable/aerobics_side_punches_e</item>
+        <item>@drawable/aerobics_side_punches_h</item>
+        <item>@drawable/aerobics_side_punches_e</item>
+    </array>
+    <array name="aerobics_single_leg_up">
+        <item>@drawable/aerobics_single_leg_up_aa</item>
+        <item>@drawable/aerobics_single_leg_up_a</item>
+        <item>@drawable/aerobics_single_leg_up_aa</item>
+        <item>@drawable/aerobics_single_leg_up_b</item>
+    </array>
+    <array name="aerobics_standing_trunk_twists">
+        <item>@drawable/aerobics_standing_trunk_twist_a</item>
+        <item>@drawable/aerobics_standing_trunk_twist_b</item>
+        <item>@drawable/aerobics_standing_trunk_twist_a</item>
+        <item>@drawable/aerobics_standing_trunk_twist_c</item>
+    </array>
+    <array name="aerobics_swimming">
+        <item>@drawable/aerobics_swimming_a</item>
+        <item>@drawable/aerobics_swimming_b</item>
+        <item>@drawable/aerobics_swimming_a</item>
+        <item>@drawable/aerobics_swimming_c</item>
+    </array>
+    <array name="aerobics_waving_the_feet">
+        <item>@drawable/aerobics_waving_the_feet_a</item>
+        <item>@drawable/aerobics_waving_the_feet_b</item>
+        <item>@drawable/aerobics_waving_the_feet_c</item>
+        <item>@drawable/aerobics_waving_the_feet_a</item>
+        <item>@drawable/aerobics_waving_the_feet_e</item>
+        <item>@drawable/aerobics_waving_the_feet_d</item>
+    </array>
+    <array name="aerobics_wide_squats">
+        <item>@drawable/aerobics_wide_squat_a</item>
+        <item>@drawable/aerobics_wide_squat_b</item>
+    </array>
+    <string-array name="day1">
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_jump_squat</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+    </string-array>
+    <string-array name="day10">
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_knee_shaft</item>
+    </string-array>
+    <integer-array name="day10_cycles">
+        <item>20</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>25</item>
+        <item>22</item>
+    </integer-array>
+    <string-array name="day11">
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_swimming</item>
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_shadow_boxing</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_leg_twisting</item>
+    </string-array>
+    <integer-array name="day11_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+        <item>30</item>
+        <item>20</item>
+        <item>22</item>
+        <item>30</item>
+    </integer-array>
+    <array name="day12" />
+    <array name="day12_cycles" />
+    <string-array name="day13">
+        <item>@string/aerobics_jump_squat</item>
+        <item>@string/aerobics_waving_the_feet</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_jumping_lunge</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_high_knees</item>
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_legs_up</item>
+    </string-array>
+    <integer-array name="day13_cycles">
+        <item>20</item>
+        <item>30</item>
+        <item>35</item>
+        <item>30</item>
+        <item>40</item>
+        <item>40</item>
+        <item>60</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="day14">
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_backward_lunges</item>
+        <item>@string/aerobics_knee_raising</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_basic_squats</item>
+    </string-array>
+    <integer-array name="day14_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>25</item>
+        <item>30</item>
+        <item>26</item>
+        <item>30</item>
+        <item>35</item>
+    </integer-array>
+    <string-array name="day15">
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_knee_shaft</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_swimming</item>
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_knee_raising</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_butt_kicks</item>
+    </string-array>
+    <integer-array name="day15_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+        <item>30</item>
+        <item>20</item>
+        <item>26</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <array name="day16" />
+    <array name="day16_cycles" />
+    <string-array name="day17">
+        <item>@string/aerobics_jump_squat</item>
+        <item>@string/aerobics_jumping_lunge</item>
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_leg_twisting</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_glute_bend</item>
+    </string-array>
+    <integer-array name="day17_cycles">
+        <item>20</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>20</item>
+        <item>20</item>
+        <item>35</item>
+        <item>28</item>
+    </integer-array>
+    <string-array name="day18">
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_knee_shaft</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_swimming</item>
+    </string-array>
+    <integer-array name="day18_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>25</item>
+        <item>30</item>
+        <item>28</item>
+        <item>40</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="day19">
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_swimming</item>
+        <item>@string/aerobics_shadow_boxing</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_knee_shaft</item>
+        <item>@string/aerobics_leg_twisting</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_jump_squat</item>
+    </string-array>
+    <integer-array name="day19_cycles">
+        <item>20</item>
+        <item>28</item>
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+        <item>25</item>
+        <item>40</item>
+        <item>30</item>
+        <item>30</item>
+        <item>25</item>
+    </integer-array>
+    <integer-array name="day1_cycles">
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="day2">
+        <item>@string/aerobics_legs_up</item>
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_knee_shaft</item>
+    </string-array>
+    <array name="day20" />
+    <array name="day20_cycles" />
+    <string-array name="day21">
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_waving_the_feet</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_jumping_lunge</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_high_knees</item>
+        <item>@string/aerobics_knee_raising</item>
+    </string-array>
+    <integer-array name="day21_cycles">
+        <item>25</item>
+        <item>30</item>
+        <item>36</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>30</item>
+        <item>25</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="day22">
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_backward_lunges</item>
+        <item>@string/aerobics_legs_up</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_forward_punch</item>
+    </string-array>
+    <integer-array name="day22_cycles">
+        <item>22</item>
+        <item>30</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>35</item>
+        <item>25</item>
+        <item>26</item>
+        <item>26</item>
+        <item>20</item>
+    </integer-array>
+    <string-array name="day23">
+        <item>@string/aerobics_legs_up</item>
+        <item>@string/aerobics_jumping_lunge</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_knee_shaft</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_knee_raising</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_glute_bend</item>
+    </string-array>
+    <integer-array name="day23_cycles">
+        <item>25</item>
+        <item>35</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>20</item>
+        <item>35</item>
+        <item>25</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </integer-array>
+    <array name="day24" />
+    <array name="day24_cycles" />
+    <string-array name="day25">
+        <item>@string/aerobics_high_knees</item>
+        <item>@string/aerobics_legs_up</item>
+        <item>@string/aerobics_backward_lunges</item>
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_knee_raising</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+    </string-array>
+    <integer-array name="day25_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+        <item>30</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+    </integer-array>
+    <string-array name="day26">
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_shadow_boxing</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_leg_twisting</item>
+        <item>@string/aerobics_jump_squat</item>
+        <item>@string/aerobics_waving_the_feet</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_jumping_lunge</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_high_knees</item>
+    </string-array>
+    <integer-array name="day26_cycles">
+        <item>20</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>25</item>
+        <item>40</item>
+        <item>30</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="day27">
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_swimming</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_knee_shaft</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_bicycle_crunches</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_knee_raising</item>
+    </string-array>
+    <integer-array name="day27_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>40</item>
+        <item>30</item>
+        <item>40</item>
+        <item>25</item>
+        <item>40</item>
+        <item>20</item>
+        <item>20</item>
+        <item>30</item>
+        <item>20</item>
+    </integer-array>
+    <array name="day28" />
+    <array name="day28_cycles" />
+    <string-array name="day29">
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_backward_lunges</item>
+        <item>@string/aerobics_legs_up</item>
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_jumping_jacks</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_waving_the_feet</item>
+        <item>@string/aerobics_leg_twisting</item>
+        <item>@string/aerobics_shadow_boxing</item>
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_jump_squat</item>
+    </string-array>
+    <integer-array name="day29_cycles">
+        <item>20</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>20</item>
+        <item>22</item>
+        <item>20</item>
+        <item>25</item>
+        <item>20</item>
+    </integer-array>
+    <integer-array name="day2_cycles">
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>25</item>
+        <item>25</item>
+        <item>20</item>
+        <item>20</item>
+        <item>30</item>
+    </integer-array>
+    <string-array name="day3">
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_backward_lunges</item>
+        <item>@string/aerobics_swimming</item>
+        <item>@string/aerobics_shadow_boxing</item>
+    </string-array>
+    <string-array name="day30">
+        <item>@string/aerobics_knee_raising</item>
+        <item>@string/aerobics_basic_squats</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_knee_shaft</item>
+        <item>@string/aerobics_swimming</item>
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_single_leg_up</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_leg_twisting</item>
+    </string-array>
+    <integer-array name="day30_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>25</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>20</item>
+        <item>20</item>
+    </integer-array>
+    <integer-array name="day3_cycles">
+        <item>30</item>
+        <item>20</item>
+        <item>30</item>
+        <item>20</item>
+        <item>20</item>
+        <item>30</item>
+        <item>30</item>
+    </integer-array>
+    <array name="day4" />
+    <array name="day4_cycles" />
+    <string-array name="day5">
+        <item>@string/aerobics_waving_the_feet</item>
+        <item>@string/aerobics_butt_kicks</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_forward_slant</item>
+        <item>@string/aerobics_jump_squat</item>
+        <item>@string/aerobics_leg_twisting</item>
+    </string-array>
+    <integer-array name="day5_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>30</item>
+        <item>20</item>
+        <item>20</item>
+    </integer-array>
+    <string-array name="day6">
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_forward_punch</item>
+        <item>@string/aerobics_wide_squats</item>
+        <item>@string/aerobics_standing_trunk_twists</item>
+        <item>@string/aerobics_hip_stretch</item>
+        <item>@string/aerobics_single_leg_up</item>
+    </string-array>
+    <integer-array name="day6_cycles">
+        <item>40</item>
+        <item>20</item>
+        <item>20</item>
+        <item>30</item>
+        <item>26</item>
+        <item>20</item>
+    </integer-array>
+    <string-array name="day7">
+        <item>@string/aerobics_side_punches</item>
+        <item>@string/aerobics_knee_raising</item>
+        <item>@string/aerobics_backward_lunges</item>
+        <item>@string/aerobics_forward_lunges</item>
+        <item>@string/aerobics_legs_up</item>
+        <item>@string/aerobics_high_knees</item>
+    </string-array>
+    <integer-array name="day7_cycles">
+        <item>40</item>
+        <item>20</item>
+        <item>20</item>
+        <item>20</item>
+        <item>25</item>
+        <item>20</item>
+    </integer-array>
+    <array name="day8" />
+    <array name="day8_cycles" />
+    <string-array name="day9">
+        <item>@string/aerobics_jumping_lunge</item>
+        <item>@string/aerobics_waving_the_feet</item>
+        <item>@string/aerobics_leg_twisting</item>
+        <item>@string/aerobics_shadow_boxing</item>
+        <item>@string/aerobics_bicycle_squat</item>
+        <item>@string/aerobics_glute_bend</item>
+        <item>@string/aerobics_jump_squat</item>
+    </string-array>
+    <integer-array name="day9_cycles">
+        <item>30</item>
+        <item>30</item>
+        <item>26</item>
+        <item>30</item>
+        <item>26</item>
+        <item>20</item>
+        <item>25</item>
+    </integer-array>
+    <string-array name="day_list">
+        <item>@string/mon</item>
+        <item>@string/tu</item>
+        <item>@string/wed</item>
+        <item>@string/thri</item>
+        <item>@string/fri</item>
+        <item>@string/sat</item>
+        <item>@string/sun</item>
+    </string-array>
+</resources>

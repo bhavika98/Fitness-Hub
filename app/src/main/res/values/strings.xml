@@ -1,0 +1,431 @@
+<resources>
+    <string name="app_name">Fitness Hub</string>
+    <string name="app_title">Lose Weight in 30 Days</string>
+
+    <string name="aerobics_backward_lunges">backward lunges</string>
+    <string name="aerobics_basic_squats">basic squats</string>
+    <string name="aerobics_bicycle_crunches">bicycle crunches</string>
+    <string name="aerobics_bicycle_squat">bicycle squat</string>
+    <string name="aerobics_butt_kicks">butt kicks</string>
+    <string name="aerobics_forward_lunges">forward lunges</string>
+    <string name="aerobics_forward_punch">forward punch</string>
+    <string name="aerobics_forward_slant">forward slant</string>
+    <string name="aerobics_glute_bend">glute bend</string>
+    <string name="aerobics_high_knees">high knees</string>
+    <string name="aerobics_hip_stretch">hip stretch</string>
+    <string name="aerobics_jump_squat">jump squat</string>
+    <string name="aerobics_jumping_jacks">jumping jacks</string>
+    <string name="aerobics_jumping_lunge">jumping lunge</string>
+    <string name="aerobics_knee_raising">knee raising</string>
+    <string name="aerobics_knee_shaft">knee shaft</string>
+    <string name="aerobics_leg_twisting">leg twisting</string>
+    <string name="aerobics_legs_up">legs up</string>
+    <string name="aerobics_shadow_boxing">shadow boxing</string>
+    <string name="aerobics_side_punches">side punches</string>
+    <string name="aerobics_single_leg_up">single leg up</string>
+    <string name="aerobics_standing_trunk_twists">standing trunk twists</string>
+    <string name="aerobics_swimming">swimming</string>
+    <string name="aerobics_waving_the_feet">waving the feet</string>
+    <string name="aerobics_wide_squats">wide squats</string>
+
+    <string name="desc_aerobics_backward_lunges">"Initially stand with legs slightly apart, with palms on waist.Take your right leg backward, bend until it reaches 90 degrees and your left leg should be parallel to the ground. Come back to the initial position and repeat the same with left leg..
+
+"</string>
+    <string name="desc_aerobics_basic_squats">"Initially stand with legs slightly apart and stretch hands parallel to the ground.Bend your knees and extend your buttocks backward as if you are going to sit back into a chair. Make sure that you keep your knees behind your toes and your weight in your heels. Rise back up and repeat.
+
+"</string>
+    <string name="desc_aerobics_bicycle_crunches">"Lie on your back, lift your shoulders off the mat and raise both the legs. Bring one knee and opposing elbow close to each other by crunching to one side, and bend the other knee.S Return to the starting position and crunch to the opposite side.
+
+"</string>
+    <string name="desc_aerobics_bicycle_squat">"Lie on your back, lift your shoulders off the mat and raise both the legs. Bring one knee and opposing elbow close to each other by crunching to one side, and fully extend the other leg. Return to the starting position and crunch to the opposite side.
+
+"</string>
+    <string name="desc_aerobics_butt_kicks">"Stand by stretching the hands parallel to the ground. Now flex your right knee and kick your right heel to your glutes. Bring the right foot down and repeaat the same with the left knee.
+
+"</string>
+    <string name="desc_aerobics_forward_lunges">"Initially stand with legs slightly apart, with palms on waist. Take your right leg forward, bend until it reaches 90 degrees and your left leg should be parallel to the ground. Come back to the initial position and repeat the same with left leg.
+
+"</string>
+    <string name="desc_aerobics_forward_punch">"Initially stand with legs slightly apart. stretch your left hand forward by holding other hand at chest level. Stretch your right hand forward by holding other hand at chest level.Repeat it.
+
+"</string>
+    <string name="desc_aerobics_forward_slant">"Initially stand with legs apart double the shoulder-width with hands up. First bend forward towards right leg. Come back to the initial position. Bend forward towards left leg. Come back to the initial position an now bend straight.
+
+"</string>
+    <string name="desc_aerobics_glute_bend">"Facing towards ground, place your hands and feet on the floor as you bend from the waist and make the glute up. Now lower your glute, facing upwards. Lay on the toes and plams. Come back to the initial position and repeat.
+
+"</string>
+    <string name="desc_aerobics_high_knees">"Stand with your feet hip-width apart, stretch hands parallel to the ground and run in place at a steady pace by pulling both the knees alternatively to chest.Do as quickly as you can.
+
+"</string>
+    <string name="desc_aerobics_hip_stretch">"Initially stand with legs apart double the shoulder-width. Your arms straight and your palms facing away from you. Bend your right knee and outstretch your left leg. Now repeat the same with the left knee and right leg.
+
+"</string>
+    <string name="desc_aerobics_jump_squat">"Initially stand with your feet shoulder-width apart. Do the regular squat with hands up. Come back to the initial position and repeat.
+
+"</string>
+    <string name="desc_aerobics_jumping_jacks">"Stand in lunges position with feet slightly apart, hands on the thighs. Jump in the air, by spreading your arms and legs simultaneously, reaching your hands upto the sky. Jump back to the starting position and repeat.
+
+"</string>
+    <string name="desc_aerobics_jumping_lunge">"Stand with your hands on waist and jump. While landing bring one of the leg forward and the other backward. Again jump, while landing switch the legs.
+
+"</string>
+    <string name="desc_aerobics_knee_raising">"Stand by stretching the hands parallel to the ground. First raise your left knee and bring it parallel to your arms. Repeat the same with the right knee.
+
+"</string>
+    <string name="desc_aerobics_knee_shaft">"Initially stand with left slight apart and stretch your hands. Stretch your left to left side and punch, at the same time, lift your right leg up. Do punching and leg lifting simultaneously. Repeat the same with right hand punch and left leg up.
+
+"</string>
+    <string name="desc_aerobics_leg_twisting">"Initially stand with legs slightly apart and stretch hands parallel to the ground. With a slight jump, extend your legs.
+
+"</string>
+    <string name="desc_aerobics_legs_up">"Begin by lying flat on your back with your legs pulled in and feet flat on the floor. Lift both the legs up, high into the air. Come back to the initial position and repeat.
+
+"</string>
+    <string name="desc_aerobics_side_punches">"Initially stand with legs slightly apart. stretch your hands by holding at chest level. Now stretch your right hand little lower to your shoulder and strike. Come back to the initial position. Now stretch your right hand again little above the shoulder and strike. Come back and repeat the same with the left hand.
+
+"</string>
+    <string name="desc_aerobics_single_leg_up">"Begin by lying flat on your back with your legs pulled in and feet flat on the floor. Lift one leg high into the air, while pushing through the heel of the leg on the ground. Lift as high as you can. Now lower the leg and repeat the same with the other leg.
+
+"</string>
+    <string name="desc_aerobics_standing_trunk_twists">"Initially stand in a squat position with legs apart twice the shoulder width. stretch your hands by holding at chest level. First twist your trunk right side then left side and repeat.
+
+"</string>
+    <string name="desc_aerobics_swimming">"Lie down with your face downwards, by stretching your hands forward. Raise your opposite arm and leg alternatively and repeat.
+
+"</string>
+    <string name="desc_aerobics_waving_the_feet">"Initially, stand by keeping your palms on waist. Stretch your right leg backward then bring it to forward. Do the same with the left leg as quickly as possible.
+
+"</string>
+    <string name="desc_aerobics_wide_squats">"Initially stand with your feet apart so there's about 20 inches between your heels. Point your toes out slightly. Your arms straight and your palms facing away from you. Bend your knees and elbows, keep your shoulders over your hips, and lower down so your weight is back in your heels. Then straighten your legs and arms.
+
+"</string>
+    <string name="desc_shadow_boxing">"Initially stand in a squat position with legs apart twice the shoulder width. stretch your hands. Stretch your hands and punch right side then left side.Repeat it.
+
+"</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="completedworkout">You have completed 30 days workouts. To achieve consistency, repeat the exercise from day one.</string>
+    <string name="congrats">Congratulations !</string>
+    <string name="noreminders">Please set reminder</string>
+    <string name="ok">Ok</string>
+    <string name="repeat">Repeat</string>
+
+    <string name="day">Day</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+
+    <string name="sun">Sunday</string>
+    <string name="mon">Monday</string>
+    <string name="tu">Tuesday</string>
+    <string name="wed">Wednesday</string>
+    <string name="thri">Thursday</string>
+    <string name="fri">Friday</string>
+    <string name="sat">Saturday</string>
+
+    <string name="default_notification_channel_id">fcm_default_channel</string>
+    <string name="default_notification_channel_name">30-Day workout</string>
+
+    <string name="day1_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day1_m_1">Oatmeal porridge</string>
+    <string name="day1_li_0">1 piece of cheese (salty or low-fat is better)</string>
+    <string name="day1_li_1">Some nuts (any nuts with no-salted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day1_l_0">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+    <string name="day1_l_1">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day1_d_0">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+    <string name="day1_d_1">Cooked or baked quinoa</string>
+
+    <string name="day2_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day2_m_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day2_li_0">1 cookie (low-sugar or sugar-free is better)</string>
+    <string name="day2_li_1">Some pumpkin seeds or pecans</string>
+    <string name="day2_l_0">Yogurt (low fat or low sugar is better)</string>
+    <string name="day2_l_1">Cooked black bean pasta or chickpea pasta</string>
+    <string name="day2_d_0">Any vegetable soup with no salt added</string>
+    <string name="day2_d_1">Omelet out of three eggs and some vegetables</string>
+
+    <string name="day3_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day3_m_1">2 scrambled eggs (no butter or oil)</string>
+    <string name="day3_li_0">Some hummus or mashed potatoes</string>
+    <string name="day3_li_1">Yogurt (low fat or low sugar is better)</string>
+    <string name="day3_l_0">Brown rice or boiled noodles</string>
+    <string name="day3_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day3_d_0">3 baked or boiled potatoes</string>
+    <string name="day3_d_1">Cooked or baked quinoa</string>
+
+    <string name="day4_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day4_m_1">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.) </string>
+    <string name="day4_li_0">Fat-free yogurt or milk with some berries</string>
+    <string name="day4_li_1">Some pumpkin seeds or pecans </string>
+    <string name="day4_l_0">Omelet out of three eggs and some vegetables</string>
+    <string name="day4_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas) </string>
+    <string name="day4_d_0">Cooked or baked beans (soybean, lentils, black beans, edamame, kidney beans, etc.)</string>
+    <string name="day4_d_1">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.) </string>
+
+    <string name="day5_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day5_m_1">2 scrambled eggs (no butter or oil)</string>
+    <string name="day5_li_0">Some nuts (any nuts with no-salted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day5_li_1" />
+    <string name="day5_l_0">1 grapefruit or orange</string>
+    <string name="day5_l_1">Cooked or baked beans (soybean, lentils, black beans, edamame, kidney beans, etc.) </string>
+    <string name="day5_d_0">Fat-free yogurt or milk with some berries </string>
+    <string name="day5_d_1">Cooked black bean pasta or chickpea pasta</string>
+
+    <string name="day6_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day6_m_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day6_li_0">Some hummus or mashed potatoes</string>
+    <string name="day6_li_1">Fat-free yogurt or milk with some berries</string>
+    <string name="day6_l_0">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+    <string name="day6_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day6_d_0">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.) </string>
+    <string name="day6_d_1">Cooked black bean pasta or chickpea pasta</string>
+
+    <string name="day7_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day7_m_1">Cooked or boiled corn with any vegetables you like</string>
+    <string name="day7_li_0">1 cookie (low-sugar or sugar-free is better)</string>
+    <string name="day7_li_1">Some pumpkin seeds or pecans</string>
+    <string name="day7_l_0">Omelet out of three eggs and some vegetables</string>
+    <string name="day7_l_1">Yogurt (low fat or low sugar Is better)</string>
+    <string name="day7_d_0">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+    <string name="day7_d_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+
+    <string name="day8_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day8_m_1">1 serving of fruit (apple, pear, banana, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day8_li_0">Fat-free yogurt or milk with some berries</string>
+    <string name="day8_li_1">1 piece of cheese (salty or low-fat is better)</string>
+    <string name="day8_l_0">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day8_l_1">Cooked black bean pasta or chickpea pasta</string>
+    <string name="day8_d_0">Any vegetable soup with no salt added</string>
+    <string name="day8_d_1">Omelet out of three eggs and some vegetables</string>
+
+    <string name="day9_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day9_m_1">Oatmeal porridge</string>
+    <string name="day9_li_0">1 cookie (low.sugar or sugar-free Is better)</string>
+    <string name="day9_li_1" />
+    <string name="day9_l_0">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+    <string name="day9_l_1">Cooked or baked beans (soybean, lentils, black beans, edamame, kidney beans, etc.)</string>
+    <string name="day9_d_0">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day9_d_1">Cooked black bean pasta or chickpea pasta</string>
+
+    <string name="day10_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day10_m_1">Cooked or boiled corn with any vegetables you like</string>
+    <string name="day10_li_0">Some hummus or mashed potatoes</string>
+    <string name="day10_li_1" />
+    <string name="day10_l_0">Smoothie or low-fat yogurt</string>
+    <string name="day10_l_1">Omelet out of three eggs and some vegetables</string>
+    <string name="day10_d_0">1 serving of fruit (apple, pear, banana, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day10_d_1">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+
+    <string name="day11_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day11_m_1">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+    <string name="day11_li_0">Yogurt (low fat or low sugar is better)</string>
+    <string name="day11_li_1">Some pumpkin seeds or pecans</string>
+    <string name="day11_l_0">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day11_l_1">Berries of choice (blueberries, strawberries, raspberries, blackberries)</string>
+    <string name="day11_d_0">3 baked or boiled potatoes</string>
+    <string name="day11_d_1">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+
+    <string name="day12_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day12_m_1">2 scrambled eggs (no butter or oil)</string>
+    <string name="day12_li_0">Some nuts (any nuts with nosalted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day12_li_1" />
+    <string name="day12_l_0">Any vegetable soup with no salt added</string>
+    <string name="day12_l_1">Some cooked peas or lentils</string>
+    <string name="day12_d_0">1 grapefruit or orange</string>
+    <string name="day12_d_1">1 piece of whole-grain bread or toast</string>
+
+    <string name="day13_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day13_m_1">Omelet out of three eggs and some vegetables</string>
+    <string name="day13_li_0">1 cookie (low.sugar or sugar-free Is better)</string>
+    <string name="day13_li_1" />
+    <string name="day13_l_0">Smoothie or low-fat yogurt</string>
+    <string name="day13_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day13_d_0">Any vegetable soup with no salt added</string>
+    <string name="day13_d_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+
+    <string name="day14_m_0">1 cup of tea or black coffee without sugar and milk</string>
+    <string name="day14_m_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day14_li_0">Some nuts (any nuts with nosalted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day14_li_1" />
+    <string name="day14_l_0">Yogurt (low fat or low sugar is better)</string>
+    <string name="day14_l_1">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+    <string name="day14_d_0">Omelet out of three eggs and some vegetables</string>
+    <string name="day14_d_1">3 baked or boiled potatoes</string>
+
+    <string name="day15_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day15_m_1">Oatmeal porridge</string>
+    <string name="day15_li_0">1 cookie (low-sugar or sugar-free Is better)</string>
+    <string name="day15_li_1">Some pumpkin seeds or pecans</string>
+    <string name="day15_l_0">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day15_l_1">Smoothie or low-fat yogurt</string>
+    <string name="day15_d_0">Yogurt (low fat or low sugar is better)</string>
+    <string name="day15_d_1">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+
+    <string name="day16_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day16_m_1">1 piece of whole-grain bread or toast</string>
+    <string name="day16_li_0">Fat-free yogurt or milk with some berries</string>
+    <string name="day16_li_1">1 cookie (low-sugar or sugar-free is better)</string>
+    <string name="day16_l_0">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day16_l_1">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+    <string name="day16_d_0">Any vegetable soup with no salt added</string>
+    <string name="day16_d_1">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+
+    <string name="day17_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day17_m_1">Omelet out of three eggs and some vegetables</string>
+    <string name="day17_li_0">Some hummus or mashed potatoes</string>
+    <string name="day17_li_1">1 cookie (low.sugar or sugar-free is better)</string>
+    <string name="day17_l_0">Brown rice or boiled noodles</string>
+    <string name="day17_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day17_d_0">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day17_d_1">Cooked black bean pasta or chickpea pasta</string>
+
+    <string name="day18_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day18_m_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day18_li_0">Some cooked or boiled corn</string>
+    <string name="day18_li_1">Some nuts (any nuts with no-salted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day18_l_0">Oatmeal porridge</string>
+    <string name="day18_l_1">Berries of choice (blueberries, strawberries, raspberries, blackberries)</string>
+    <string name="day18_d_0">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+    <string name="day18_d_1">Cooked black bean pasta or chickpea pasta</string>
+
+    <string name="day19_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day19_m_1">Cooked or boiled corn with any vegetables you like</string>
+    <string name="day19_li_0">1 piece of cheese (salty or low-fat is better)</string>
+    <string name="day19_li_1">Yogurt (low fat or low sugar is better)</string>
+    <string name="day19_l_0">Omelet out of three eggs and some vegetables</string>
+    <string name="day19_l_1">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day19_d_0">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day19_d_1">Oatmeal porridge</string>
+
+    <string name="day20_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day20_m_1">2 scrambled eggs (no butter or oil)</string>
+    <string name="day20_li_0">Some hummus or mashed potatoes</string>
+    <string name="day20_li_1" />
+    <string name="day20_l_0">Oatmeal porridge</string>
+    <string name="day20_l_1">Cooked or baked beans (soybean, lentils, black beans, edamame, kidney beans, etc.)</string>
+    <string name="day20_d_0">3 baked or boiled potatoes</string>
+    <string name="day20_d_1">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+
+    <string name="day21_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day21_m_1">Cooked or boiled corn with any vegetables you like</string>
+    <string name="day21_li_0">Some hummus or mashed potatoes</string>
+    <string name="day21_li_1" />
+    <string name="day21_l_0">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+    <string name="day21_l_1">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day21_d_0">Omelet out of three eggs and some vegetables</string>
+    <string name="day21_d_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+
+    <string name="day22_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day22_m_1">Oatmeal porridge</string>
+    <string name="day22_li_0">Some nuts (any nuts with nosalted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day22_li_1" />
+    <string name="day22_l_0">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day22_l_1">Cooked or baked beans (soybean, lentils, black beans, edamame, kidney beans, etc.)</string>
+    <string name="day22_d_0">1 grapefruit or orange</string>
+    <string name="day22_d_1">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+
+    <string name="day23_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day23_m_1">2 scrambled eggs (no butter or oil)</string>
+    <string name="day23_li_0">1 cookie (low-sugar or sugar-free is better)</string>
+    <string name="day23_li_1">Some pumpkin seeds or pecans</string>
+    <string name="day23_l_0">Cooked or boiled corn with any vegetables you like</string>
+    <string name="day23_l_1">Brown rice or boiled noodles</string>
+    <string name="day23_d_0">Some cooked or boiled corn</string>
+    <string name="day23_d_1">Cooked black bean pasta or chickpea pasta</string>
+
+    <string name="day24_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day24_m_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day24_li_0">1 piece of cheese (salty or low-fat is better)</string>
+    <string name="day24_li_1">Yogurt (low fat or low sugar is better)</string>
+    <string name="day24_l_0">Brown rice or boiled noodles</string>
+    <string name="day24_l_1">Any vegetable soup with no salt added</string>
+    <string name="day24_d_0">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day24_d_1">Smoothie or low-fat yogurt</string>
+
+    <string name="day25_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day25_m_1">Oats with fat-free milk (oatmeal, cracked wheat or barley)</string>
+    <string name="day25_li_0">Some nuts (any nuts with no-salted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day25_li_1" />
+    <string name="day25_l_0">1 grapefruit or orange</string>
+    <string name="day25_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day25_d_0">Smoothie or low-fat yogurt</string>
+    <string name="day25_d_1">Cooked or baked quinoa</string>
+
+    <string name="day26_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day26_m_1">Omelet out of three eggs and some vegetables</string>
+    <string name="day26_li_0">1 cookie (low-sugar or sugar-free is better)</string>
+    <string name="day26_li_1" />
+    <string name="day26_l_0">Brown rice or boiled noodles</string>
+    <string name="day26_l_1">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day26_d_0">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day26_d_1">Cooked or baked quinoa</string>
+
+    <string name="day27_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day27_m_1">Oatmeal porridge</string>
+    <string name="day27_li_0">Fat-free yogurt or milk with some berries</string>
+    <string name="day27_li_1">Some pumpkin seeds or pecans</string>
+    <string name="day27_l_0">Vegetable salad (carrots, tomatoes, sweet peppers, cucumbers, etc.)</string>
+    <string name="day27_l_1">3 baked or boiled potatoes</string>
+    <string name="day27_d_0">Fruit salad (apple, pear, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day27_d_1">Cooked or baked beans (soybean, lentils, black beans, edamame, kidney beans, etc.)</string>
+
+    <string name="day28_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day28_m_1">1 piece of whole-grain bread or toast</string>
+    <string name="day28_li_0">1 cookie (low sugar or sugar-free is better)</string>
+    <string name="day28_li_1" />
+    <string name="day28_l_0">Some hummus or mashed potatoes</string>
+    <string name="day28_l_1">2 pieces of whole-grain toast with vegetables (onions, tomato, lettuce, etc.)</string>
+    <string name="day28_d_0">Any vegetable soup with no salt added</string>
+    <string name="day28_d_1">Omelet out of three eggs and some vegetables</string>
+
+    <string name="day29_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day29_m_1">Omelet out of three eggs and some vegetables</string>
+    <string name="day29_li_0">Some nuts (any nuts with nosalted, almonds, pistachio nuts, cashew nuts, hazelnuts, etc.)</string>
+    <string name="day29_li_1" />
+    <string name="day29_l_0">Cooked or boiled vegetables (asparagus, broccoli, cauliflower, zucchini, spinach, or peas)</string>
+    <string name="day29_l_1">Cooked black bean pasta or chickpea pasta</string>
+    <string name="day29_d_0">1 serving of fruit (apple, pear, banana, orange, grapefruit, pineapple, etc.)</string>
+    <string name="day29_d_1">1 piece of whole-grain bread or toast</string>
+
+    <string name="day30_m_0">1 cup of tea or hot cocoa without sugar and milk</string>
+    <string name="day30_m_1">2 scrambled eggs (no butter or oil)</string>
+    <string name="day30_li_0">Some cooked or boiled corn</string>
+    <string name="day30_li_1">Some hummus or mashed potatoes</string>
+    <string name="day30_l_0">Oatmeal porridge</string>
+    <string name="day30_l_1">Berries of choice (blueberries, strawberries, raspberries, blackberries)</string>
+    <string name="day30_d_0">Any vegetable soup with no salt added</string>
+    <string name="day30_d_1">1 piece of whole-grain bread or toast</string>
+
+    <string name="h_day1">Day 1</string>
+    <string name="h_day10">Day 10</string>
+    <string name="h_day11">Day 11</string>
+    <string name="h_day12">Day 12</string>
+    <string name="h_day13">Day 13</string>
+    <string name="h_day14">Day 14</string>
+    <string name="h_day15">Day 15</string>
+    <string name="h_day16">Day 16</string>
+    <string name="h_day17">Day 17</string>
+    <string name="h_day18">Day 18</string>
+    <string name="h_day19">Day 19</string>
+    <string name="h_day2">Day 2</string>
+    <string name="h_day20">Day 20</string>
+    <string name="h_day21">Day 21</string>
+    <string name="h_day22">Day 22</string>
+    <string name="h_day23">Day 23</string>
+    <string name="h_day24">Day 24</string>
+    <string name="h_day25">Day 25</string>
+    <string name="h_day26">Day 26</string>
+    <string name="h_day27">Day 27</string>
+    <string name="h_day28">Day 28</string>
+    <string name="h_day29">Day 29</string>
+    <string name="h_day3">Day 3</string>
+    <string name="h_day30">Day 30</string>
+    <string name="h_day4">Day 4</string>
+    <string name="h_day5">Day 5</string>
+    <string name="h_day6">Day 6</string>
+    <string name="h_day7">Day 7</string>
+    <string name="h_day8">Day 8</string>
+    <string name="h_day9">Day 9</string>
+    <string name="rest_day">Rest Day</string>
+
+</resources>
